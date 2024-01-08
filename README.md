@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirizvi19" alt="alirizvi19" /></a> </p>
 
-- 🔭 I’m currently working on Fortmindz Pvt Ltd [https://cloud303.io/](https://alirizvi19.github.io/Eleria_Clone/)
+- 🔭 I’m currently working on Fortmindz Pvt Ltd [https://cloud303.io/] [https://alirizvi19.github.io/Eleria_Clone] [https://www.eyes4research.com/] []
 
 - 🌱 I’m currently learning **React Js and App Development**
 
